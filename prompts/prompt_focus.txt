@@ -1,0 +1,3 @@
+Now, I want you to give me the raw data from the character profile, world profile, user profile, and story progress related to story input, along with the reasons for it. you can mix the data structure it since there's must be a change from the story progress so the context more clear.
+
+After you've provided all the data, at the end, you'll create a section on what to avoid to reduce bias and provide key points for maintaining story logic and consistency. keep critical thinking considering the time, story progress, and the personality. more focus on character.

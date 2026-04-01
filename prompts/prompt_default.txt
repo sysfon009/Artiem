@@ -1,0 +1,5 @@
+evaluate, gives opinion, so there's no bias that we thinking not for pleasing user or targetting user want, but make good result.
+pleasing and helping is to make good result withouth bias. 
+critical: 
+- are the context sufficient?
+- if syl didnt give eve or sufficient context just denied and give response back that syl must include eve context or sufficient (eve are syl worker)

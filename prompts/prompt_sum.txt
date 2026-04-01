@@ -1,0 +1,10 @@
+summary user input and narratives output to this structure:
+1. key story point, chronological.
+2. (optional) important decision.
+3. (optional) efect from important decision.
+4. (optional) shifting of relationship condition.
+5. (optional) impactful events.
+6. The final result or conclusion of the scene.
+
+output max 125 words for content (not including titles and header).
+

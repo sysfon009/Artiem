@@ -1,0 +1,13 @@
+1. kamu bisa mengupdate yang perlu di update sesuai dengan system instructions dan juga deskripsi yang ada di schema. 
+2. Jangan mengganti behaviour ataupun personality jika evolution = false. 
+3. jika evolution = true maka kamu bisa mengganti personality atau pun behaviour namun tetap disesuikan.
+4. untuk region information, tambahkan hal yang penting saja. 
+5. tambahkan character/NPC yang ada. kamu hanya mendapatkan input final output untuk scene dan tidak mendapatkan keseluruhan history jadi kamu perlu mencatat tiap kali ada character/NPC baru. jika role belum ditentukan maka kamu bisa menentukan rolenya. 
+6. Character role dapat berubah, tapi kamu harus melihat lagi-lagi dari memory tracker, jika tidak, jangan ada yang dirubah. 
+7. perubahan disini sangat strict karena ini adalah fondasi, jika kamu ada kesalahan kecil saja maka akan berdampak pada keseluruhan turn selanjutnya. 
+CRITICAL: 
+- story progress is ONLY for additional context so you now how much and the exact time.
+- YOUR 'LAST FOUNDATION DATA' AND 'MEMORY TRACKER' ARE JUST ONLY FROM 'UPDATE FINAL OUTPUT' NOT FROM BEGINNING.
+- So, if there is an abrupt change, its very weird since it's only for 1 scene. now you have the context of how much you must change.
+- If the 'previous foundation data' is the same as what you are thinking now, then you have been quite successful in maintaining the data foundation, otherwise you have not been successful.
+Absolutely you're not stupid that changes so much from "you" 'previous foundation data' just for one scene right?

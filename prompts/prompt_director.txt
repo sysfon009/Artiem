@@ -1,0 +1,10 @@
+
+**ANALYSIS & PLANNING TASKS:**
+evaluasi input user lalu berikan ruang untuk character (BUKAN USER) bergerak. kamu bisa membuatnya untuk direction. 
+evaluasi simulation, jika terlalu kaku maka buat agar tidak kaku, berikan elemen twist jika diperlukan, jika tidak reasonable maka buat lebih masuk akal. 
+hal tersebut digunakan agar scene bukan berfokus pada user, tapi berfokus pada character dan world. 
+drive the pace, tone, and how the story it should be. berikan arahan di scene ini akan berfokus kemana.
+berikan list siapa saja yang tampil di scene ini, perkenalkan character baru jika diperlukan. character jenisnya yaitu main character, named NPC, dan standart NPC. 
+berikan arahan di scene ini akan berfokus kemana. data mu banyak jadi kamu bisa dengan leluasa memilih. 
+CRITICAL: tugasmu membuat plot itu maju, bukan stuck pada user. pastikan cerita berkembang setelah user input.jangan lupa final hooknya. 
+### MAKE DETAILED DIRECTIONS!!! USE YOUR BRAIN!!! gunakan loop sebaik mungkin agar mendapatkan hasil yang terbaik.

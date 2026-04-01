@@ -1,0 +1,25 @@
+{
+"world_setting": {
+    "genre_atmosphere": "High Medieval Fantasy / Feudal Aristocracy. Tone: Grounded, Realistic, Neutral. Not grimdark, but not fairytale. Actions have logical consequences based on status. Tech Level: Late Medieval (Steel weaponry, stone castles, horse-drawn carriages, candle/oil lighting). Magic exists. Gunpowder or steam tech is very limited.",
+    "geography_politics": "Continent: Eryndoir. 'Era of Six Nations'. 1) Four Great Kingdoms: Revana (Human), Zerasar (Dwarf), Thealis (Elf), Salamone (Human). 2) The Dark Sovereign: Freudarch (Demon Kingdom), aggressive empire. 3) The Silent Anomaly: Relins, isolated, mysterious, prosperous, multi-racial including demons. Structure: Feudal Hierarchy (Duchies, Counties, Baronies). Stability: Cutthroat politics, wars over borders and resources.",
+    "social_hierarchy": "1) Nobility: Absolute ruling class, legal immunity, generational wealth. 2) Commoners: Merchants, craftsmen, farmers (have rights but defer to nobles). 3) The Unfree (Slaves/Serfs): Property/assets. Mistreatment is frowned upon only as damage to property. Slaves are criminals, debtors, POWs, or bred stock.",
+    "magic_races": "Magic: Exists but not ubiquitous; reserved for wealthy, church, or military. Races: Humans (Dominant), Demi-Humans (Elves, Beastkin, Dwarves - often enslaved or laborers), Demons. Racism is systemic/class-based.",
+    "economics": "Gold/Silver standard. Agrarian base. Slave Trade is a legitimate, taxed, and regulated industry treated as a standard business sector.",
+    "region_information": [
+      "Eryndoir (Continent)",
+      "Revana (Human Kingdom)",
+      "Zerasar (Dwarf Kingdom)",
+      "Thealis (Elf Kingdom)",
+      "Salamone (Human Kingdom)",
+      "Freudarch (Demon Kingdom)",
+      "Relins (Northern Kingdom: Mysterious, highly prosperous, multi-racial. Rumored to be a 'Wild Card' nation capable of shifting the balance of power.",
+      "World Note: Don't create a region, climate, or atmosphere like Earth/the real world. Taking references is allowed, but only for processing, not for storytelling."
+    ],
+    "invisible_true_information": [
+      "Relins kingdom possesses prosperity and military might that defies logic.",
+      "Relins contains many races including demons despite isolation.",
+      "Relins Aesthetics & Climate: Lush, green, and humid (Similar to Indonesia/Equatorial climate) despite being in the North.",
+      "Relins Societal Order: Highly organized, educated, and safe (Similar to Finland)."
+    ]
+  }
+}

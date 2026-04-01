@@ -1,0 +1,6 @@
+flask
+numpy
+pandas
+matplotlib
+scipy
+# Tambahkan library lain yang kamu mau AI bisa pakai disini
